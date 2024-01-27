@@ -1,0 +1,12 @@
+.head-box__img {
+  display: flex;
+  flex-direction: column;
+  -moz-column-gap: 30px;
+       column-gap: 30px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}/*# sourceMappingURL=style.css.map */
